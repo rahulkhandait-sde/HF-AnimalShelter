@@ -1,6 +1,6 @@
+#### Name: [Rahul Khandait](https://github.com/rahulkhandait-sde)
 
-#### Name: [Adarsh Gupta](https://github.com/adarshgupta404)
-- College name: Name of your college
-- Department: Which department you are in?
+- College name: Netaji Subhash Engineering College
+- Department: CSE
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+- GitHub: [Rahul Khandait](https://github.com/rahulkhandait-sde)
